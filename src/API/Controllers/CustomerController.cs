@@ -1,8 +1,7 @@
-using ErrorOr;
+using Application.Invitados.InvitadoOrchestrator.Create;
+using Application.Invitados.Origen;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Application.Customers.GetAll;
-using Application.Customers.Create;
 
 namespace API.Controllers;
 
@@ -16,24 +15,8 @@ public class CustomerController : ApiController
         _mediator = mediator ?? throw new ArgumentNullException(nameof(mediator));
     }
 
-    /// <summary>
-    /// Gets all customers.
-    /// </summary>
-    /// <returns>The result of the operation, which is either a list of customers or a list of errors</returns>
-
-    [HttpGet]
-    public async Task<IActionResult> GetAllCustomer([FromQuery] GetAllCustomerQuery query)
-    {
-        var customersResult = await _mediator.Send(query);
-
-        return customersResult.Match(
-            customers => Ok(customers),
-            errors => Problem(errors)
-        );
-    }
-
     [HttpPost]
-    public async Task<IActionResult> CreateCustomer([FromBody] CreateCustomerCommand createCustomerCommand)
+    public async Task<IActionResult> CreateCustomer([FromBody] CreateInvitadoOrchestratorCommand createCustomerCommand)
     {
         var createCustomerResult = await _mediator.Send(createCustomerCommand);
 
@@ -41,6 +24,17 @@ public class CustomerController : ApiController
             customerResult => Created(string.Empty, customerResult),
             errors => Problem(errors)
         );
+    }
+
+    [HttpPost("/origen")]
+    public async Task<IActionResult> CreateOrigenInvitado([FromBody] CreateOrigenInvitadoCommand createCustomerCommand)
+    {
+        var createCustomerResult = await _mediator.Send(createCustomerCommand);
+
+        return createCustomerResult.Match(
+           customerResult => Created(string.Empty, customerResult),
+           errors => Problem(errors)
+       );
     }
 }
 

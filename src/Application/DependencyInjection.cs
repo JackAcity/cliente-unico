@@ -13,12 +13,14 @@ public static class DependencyInjection
         services.AddMediatR(config => {
             config.RegisterServicesFromAssemblyContaining<ApplicationAssemblyReference>();
         });
-
         services.AddScoped(
             typeof(IPipelineBehavior<,>),
             typeof(ValidationBehavior<,>)
         );
-
+        services.AddScoped(
+            typeof(IPipelineBehavior<,>),
+            typeof(TransactionBehavior<,>)
+        );
         services.AddValidatorsFromAssemblyContaining<ApplicationAssemblyReference>();
         
         return services;

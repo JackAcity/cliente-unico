@@ -1,9 +1,8 @@
+using Domain.Primitives;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage;
-
-using Application.Data;
-using Domain.Primitives;
+using Npgsql;
 
 namespace Infrastructure.Persistence;
 
@@ -11,32 +10,35 @@ public abstract class ApplicationDbContext : DbContext, IUnitOfWork
 {
     public readonly IPublisher _publiser;
     private IDbContextTransaction? _currentTransaction;
-
-    public ApplicationDbContext(DbContextOptions options, IPublisher publiser) : base(options)
+    public ApplicationDbContext(DbContextOptions options,
+        IPublisher publiser) : base(options)
     {
         _publiser = publiser ?? throw new ArgumentNullException(nameof(publiser));
     }
 
     protected abstract override void OnModelCreating(ModelBuilder modelBuilder);
-    
-    public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
+
+    public override async Task<int> SaveChangesAsync(
+        CancellationToken cancellationToken = default)
     {
-        var domainEvents = ChangeTracker.Entries<AggregateRoot>()
-        .Select(e => e.Entity)
-        .Where(e => e.GetDomainEvents().Any())
-        .SelectMany(e => e.GetDomainEvents());
-
-        var result = await base.SaveChangesAsync(cancellationToken);
-
-        foreach (var domainEvent in domainEvents)
+        try
         {
-            await _publiser.Publish(domainEvent, cancellationToken);
+            return await base.SaveChangesAsync(cancellationToken);
         }
-
-        return result;
+        catch (PostgresException pgEx)  
+        {
+            throw new Exception(
+                $"Error en BD (SQLState={pgEx.SqlState}): {pgEx.MessageText}",
+                pgEx);
+        }
+        catch (Exception dbEx) 
+        {
+            var inner = dbEx.GetBaseException();
+            throw new Exception(
+                $"Error al actualizar la base de datos: {inner.Message}",
+                dbEx);
+        }
     }
-
-    // Metodos para manejar las transacciones
     public async Task BeginTransactionAsync(CancellationToken cancellationToken = default)
     {
         if (_currentTransaction != null)

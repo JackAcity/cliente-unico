@@ -2,7 +2,7 @@ namespace Infrastructure.Common;
 
 public class DatabaseSettings
 {
-    public string Provider { get; set; } = string.Empty;
+  public string Provider { get; set; } = string.Empty;
     public string Host { get; set; } = string.Empty;
     public string Port { get; set; } = string.Empty;
     public string Database { get; set; } = string.Empty;
@@ -26,4 +26,3 @@ public class DatabaseSettings
         }
     }
 }
-

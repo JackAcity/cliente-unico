@@ -1,0 +1,28 @@
+{
+  "information": [
+    "This file provides default values for the deployment wizard inside Visual Studio and the AWS Lambda commands added to the .NET Core CLI.",
+    "To learn more about the Lambda commands with the .NET Core CLI execute the following command at the command line in the project root directory.",
+    "dotnet lambda help",
+    "All the command line options for the Lambda command can be specified in this file."
+  ],
+  "profile": "JackAcity",
+  "region": "us-west-2",
+  "configuration": "Release",
+  "function-architecture": "x86_64",
+  "function-runtime": "dotnet8",
+  "function-memory-size": 1024,
+  "function-timeout": 30,
+  "framework": "net8.0",
+  "package-type": "Zip",
+
+  "function-name": "ObtenerDatosReniec",
+  "function-handler": "ObtenerDatosReniec::ObtenerDatosReniec.Function::FunctionHandler",
+  "function-description": "Obtiene la data de un DNI desde una API interna.",
+
+  "function-role": "arn:aws:iam::426985588491:role/role_lambda_cliente_unico",
+  "function-subnets": "subnet-01ff5eabc97f4f9b2,subnet-023258e12842b12a2,subnet-0e5c75d6a8b534d34,subnet-072140f0a2425d14d,subnet-0f6951df801a22c9c",
+  "function-security-groups": "sg-08b9378549763edbd",
+  "tracing-mode": "PassThrough",
+  "environment-variables": "API_PERU_URL=http://10.0.12.22:8012/api/api-peru/get-by-dni/;API_KEY_APP=111006C5-2F98-4BCC-96D9-61D5BE343286",
+  "image-tag": ""
+}

@@ -1,0 +1,29 @@
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "${PORT}:8081"
+    env_file:
+      - .env
+    volumes:
+      - /c/Dany/Portafolio/v1/logs:/mnt/logs
+    environment:
+      - DatabaseSettings__Provider=${DB_PROVIDER}
+      - DatabaseSettings__Host=${DB_HOST}
+      - DatabaseSettings__Port=${DB_PORT}
+      - DatabaseSettings__Database=${DB_NAME}
+      - DatabaseSettings__UserId=${DB_USER}
+      - DatabaseSettings__Password=${DB_PASSWORD}
+      - ASPNETCORE_ENVIRONMENT=${STAGE}
+      - ASPNETCORE_URLS=${ASPNETCORE_URLS}
+    networks:
+      - sql_server_mi_red  # Usar la misma red para la comunicación con el contenedor SQL Server
+      - app-template-net8_default
+
+networks:
+  sql_server_mi_red:  # Usar el mismo nombre de red que en el otro docker-compose
+    external: true  # Especificar que la red es interna y debe ser creada automáticamente
+  app-template-net8_default:
+    external: true

@@ -1,0 +1,1368 @@
+2025-07-16 11:20:04 [INF]   Now listening on: https://localhost:7218
+2025-07-16 11:20:04 [INF]   Now listening on: http://localhost:5054
+2025-07-16 11:20:04 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 11:20:04 [INF]   Hosting environment: Development
+2025-07-16 11:20:04 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 11:20:30 [WRN] /api/v1/customers  Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-07-16 11:20:37 [INF] /api/v1/customers  Invitado creado correctamente: "01981409-9c71-7953-85f2-b8fbbe02ad7c"
+2025-07-16 11:20:37 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 8216.4877 ms
+2025-07-16 11:24:27 [INF] /api/v1/customers  Invitado creado correctamente: "0198140b-159b-7656-9a46-0840acbdfd1f"
+2025-07-16 11:24:27 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 140428.8885 ms
+2025-07-16 11:26:32 [INF]   Now listening on: https://localhost:7218
+2025-07-16 11:26:32 [INF]   Now listening on: http://localhost:5054
+2025-07-16 11:26:32 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 11:26:32 [INF]   Hosting environment: Development
+2025-07-16 11:26:32 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 11:26:44 [WRN] /api/v1/customers  Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-07-16 11:33:09 [INF]   Now listening on: https://localhost:7218
+2025-07-16 11:33:09 [INF]   Now listening on: http://localhost:5054
+2025-07-16 11:33:09 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 11:33:09 [INF]   Hosting environment: Development
+2025-07-16 11:33:09 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 11:33:21 [WRN] /api/v1/customers  Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-07-16 11:33:40 [INF] /api/v1/customers  Invitado creado correctamente: "36274997-9f89-49d5-ac79-4e8570671797"
+2025-07-16 11:33:40 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 19271.8052 ms
+2025-07-16 11:52:13 [INF]   Now listening on: https://localhost:7218
+2025-07-16 11:52:13 [INF]   Now listening on: http://localhost:5054
+2025-07-16 11:52:14 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 11:52:14 [INF]   Hosting environment: Development
+2025-07-16 11:52:14 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 11:54:02 [WRN] /api/v1/customers  Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-07-16 11:54:41 [INF] /api/v1/customers  Invitado creado correctamente: "12e61031-9465-410f-9211-3966b9b3afcb"
+2025-07-16 11:54:41 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 39328.6033 ms
+2025-07-16 12:09:19 [INF]   Now listening on: https://localhost:7218
+2025-07-16 12:09:19 [INF]   Now listening on: http://localhost:5054
+2025-07-16 12:09:19 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 12:09:19 [INF]   Hosting environment: Development
+2025-07-16 12:09:19 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 12:09:37 [WRN] /api/v1/customers  Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-07-16 12:09:40 [INF] /api/v1/customers  Invitado creado correctamente: "8722bf35-8277-4e6b-920f-fde51783da96"
+2025-07-16 12:09:40 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 4497.1518 ms
+2025-07-16 12:11:27 [INF] /api/v1/customers  Invitado creado correctamente: "b7630f34-2ac1-4475-a8d9-0be02cda7048"
+2025-07-16 12:11:27 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 62323.6480 ms
+2025-07-16 12:11:44 [INF]   Now listening on: https://localhost:7218
+2025-07-16 12:11:44 [INF]   Now listening on: http://localhost:5054
+2025-07-16 12:11:44 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 12:11:44 [INF]   Hosting environment: Development
+2025-07-16 12:11:44 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 12:12:00 [WRN] /api/v1/customers  Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-07-16 12:12:03 [INF] /api/v1/customers  Invitado creado correctamente: "16cb2b99-7683-42cb-9e62-91ed2334dcd7"
+2025-07-16 12:12:03 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 4457.5517 ms
+2025-07-16 12:12:49 [INF] /api/v1/customers  Invitado creado correctamente: "7a76e483-8ab1-4a61-9436-5229fc76dbc6"
+2025-07-16 12:12:49 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 30263.4091 ms
+2025-07-16 12:17:43 [INF]   Now listening on: https://localhost:7218
+2025-07-16 12:17:43 [INF]   Now listening on: http://localhost:5054
+2025-07-16 12:17:43 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 12:17:43 [INF]   Hosting environment: Development
+2025-07-16 12:17:43 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 12:17:57 [WRN] /api/v1/customers  Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2025-07-16 12:17:58 [INF] /api/v1/customers  Invitado creado correctamente: "35b9fa22-3e1d-48ce-8639-29fff36f04f2"
+2025-07-16 12:17:58 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 2414.0145 ms
+2025-07-16 13:53:01 [INF]   Now listening on: https://localhost:7218
+2025-07-16 13:53:01 [INF]   Now listening on: http://localhost:5054
+2025-07-16 13:53:02 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 13:53:02 [INF]   Hosting environment: Development
+2025-07-16 13:53:02 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 13:55:00 [ERR] /api/v1/customers  Unhandled exception
+System.InvalidOperationException: No service for type 'Infrastructure.Persistence.AuditAndDispatchInterceptor' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Infrastructure.Persistence.Invitados.DependencyInjection.<>c__DisplayClass2_0.<AddDbContextPostgreSql>b__0(IServiceProvider sp, DbContextOptionsBuilder options) in C:\Users\jzavala\source\repos\app-template-net8\src\Infrastructure\Persistence\Invitados\DependencyInjection.cs:line 73
+   at Microsoft.EntityFrameworkCore.Infrastructure.Internal.DbContextOptionsConfiguration`1.Configure(IServiceProvider serviceProvider, DbContextOptionsBuilder optionsBuilder)
+   at Microsoft.Extensions.DependencyInjection.EntityFrameworkServiceCollectionExtensions.CreateDbContextOptions[TContext](IServiceProvider applicationServiceProvider)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Infrastructure.Persistence.Invitados.DependencyInjection.<>c.<AddDbContextPostgreSql>b__2_2(IServiceProvider sp) in C:\Users\jzavala\source\repos\app-template-net8\src\Infrastructure\Persistence\Invitados\DependencyInjection.cs:line 76
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitFactory(FactoryCallSite factoryCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitConstructor(ConstructorCallSite constructorCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitIEnumerable(IEnumerableCallSite enumerableCallSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSiteMain(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitCache(ServiceCallSite callSite, RuntimeResolverContext context, ServiceProviderEngineScope serviceProviderEngine, RuntimeResolverLock lockType)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.VisitScopeCache(ServiceCallSite callSite, RuntimeResolverContext context)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteVisitor`2.VisitCallSite(ServiceCallSite callSite, TArgument argument)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteRuntimeResolver.Resolve(ServiceCallSite callSite, ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.DynamicServiceProviderEngine.<>c__DisplayClass2_0.<RealizeService>b__0(ServiceProviderEngineScope scope)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.GetService(ServiceIdentifier serviceIdentifier, ServiceProviderEngineScope serviceProviderEngineScope)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.GetService(Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetServices[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at API.Controllers.CustomerController.CreateCustomer(CreateInvitadoOrchestratorCommand createCustomerCommand) in C:\Users\jzavala\source\repos\app-template-net8\src\API\Controllers\CustomerController.cs:line 21
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at AspNetCoreRateLimit.RateLimitMiddleware`1.Invoke(HttpContext context) in C:\Users\User\Documents\Github\AspNetCoreRateLimit\src\AspNetCoreRateLimit\Middleware\RateLimitMiddleware.cs:line 124
+   at API.Middlewares.GlobalExceptionHandlingMiddleware.Invoke(HttpContext context) in C:\Users\jzavala\source\repos\app-template-net8\src\API\Middlewares\GlobalExceptionHandlingMiddleware.cs:line 28
+2025-07-16 13:55:00 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 434.0226 ms
+2025-07-16 13:57:29 [INF]   Now listening on: https://localhost:7218
+2025-07-16 13:57:30 [INF]   Now listening on: http://localhost:5054
+2025-07-16 13:57:30 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 13:57:30 [INF]   Hosting environment: Development
+2025-07-16 13:57:30 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 13:57:46 [ERR] /api/v1/customers  Failed executing DbCommand (70ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = Int64), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int64), @p6='?', @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?', @p11='?' (DbType = Boolean), @p12='?' (DbType = Boolean), @p13='?' (DbType = Guid), @p14='?', @p15='?' (DbType = Guid), @p16='?', @p17='?' (DbType = Int32), @p18='?', @p19='?' (DbType = Int64), @p20='?' (DbType = Boolean), @p21='?' (DbType = Guid), @p22='?', @p23='?' (DbType = Int32), @p24='?' (DbType = Boolean), @p25='?', @p26='?', @p27='?', @p28='?' (DbType = Guid), @p29='?', @p30='?' (DbType = Boolean), @p31='?' (DbType = Guid), @p32='?', @p33='?' (DbType = Guid), @p34='?', @p35='?', @p36='?', @p37='?' (DbType = Guid), @p38='?', @p39='?', @p40='?', @p41='?' (DbType = Guid), @p42='?' (DbType = Boolean), @p43='?' (DbType = Guid), @p44='?', @p45='?', @p46='?', @p47='?' (DbType = Guid), @p48='?' (DbType = Boolean), @p49='?' (DbType = Guid), @p50='?', @p51='?', @p52='?', @p53='?' (DbType = Int64), @p54='?' (DbType = Guid), @p55='?' (DbType = Int64), @p56='?' (DbType = Guid), @p57='?' (DbType = Boolean), @p58='?', @p59='?', @p60='?' (DbType = Guid), @p61='?', @p62='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO tt_invt_invitado (id_invitado, invt_v_apellido_materno, invt_v_apellido_paterno, id_estado_civil, invt_dt_fecha_nacimiento, id_genero, id_pais, invt_v_primer_nombre, invt_v_segundo_nombre)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+INSERT INTO tt_invtcor_invitado_correo (id_invitado_correo, invtcor_v_correo, invtcor_b_desea_notificacion, invtcor_b_es_prioridad, id_invitado, tcont_v_codigo)
+VALUES (@p9, @p10, @p11, @p12, @p13, @p14);
+INSERT INTO tt_invtdir_invitado_direccion (id_invitado_direccion, invtdir_v_coordenadas, invtdir_i_departamento, invtdir_v_direccion, id_distrito, invtdir_b_es_principal, id_invitado, invtdir_v_numero_lote, invtdir_i_piso, invtdir_b_prioridad, invtdir_v_referencia, tcont_v_codigo, tvurb_v_codigo)
+VALUES (@p15, @p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27);
+INSERT INTO tt_invtdoc_invitado_documento (id_invitado_documento, invtdoc_v_documento_identidad, invtdoc_b_es_prioridad, id_invitado, tdoc_v_codigo)
+VALUES (@p28, @p29, @p30, @p31, @p32);
+INSERT INTO tt_invtdtp_invitado_datos_principales (id_invitado_datos_principales, invtdtp_correo, invtdtp_direccion, invtdtp_documento_identidad, id_invitado, invtdtp_numero, invtdtp_referencia, tdoc_v_codigo)
+VALUES (@p33, @p34, @p35, @p36, @p37, @p38, @p39, @p40);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p41, @p42, @p43, @p44, @p45, @p46);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p47, @p48, @p49, @p50, @p51, @p52);
+INSERT INTO tt_etinvet_etiqueta_invitado (id_etiqueta, id_invitado)
+VALUES (@p53, @p54)
+RETURNING id_etiqueta_invitado;
+INSERT INTO tt_invtpref_invitado_preferencia (id_categoria_preferencia, id_invitado, invtpref_b_le_gusta, invtpref_v_valor)
+VALUES (@p55, @p56, @p57, @p58)
+RETURNING id_invitado_preferencia;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p59, @p60)
+RETURNING id_nota;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p61, @p62)
+RETURNING id_nota;
+2025-07-16 13:57:46 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 13:57:46 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 13:57:46 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 2493.1182 ms
+2025-07-16 13:58:14 [ERR] /api/v1/customers  Failed executing DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = Int64), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int64), @p6='?', @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?', @p11='?' (DbType = Boolean), @p12='?' (DbType = Boolean), @p13='?' (DbType = Guid), @p14='?', @p15='?' (DbType = Guid), @p16='?', @p17='?' (DbType = Int32), @p18='?', @p19='?' (DbType = Int64), @p20='?' (DbType = Boolean), @p21='?' (DbType = Guid), @p22='?', @p23='?' (DbType = Int32), @p24='?' (DbType = Boolean), @p25='?', @p26='?', @p27='?', @p28='?' (DbType = Guid), @p29='?', @p30='?' (DbType = Boolean), @p31='?' (DbType = Guid), @p32='?', @p33='?' (DbType = Guid), @p34='?', @p35='?', @p36='?', @p37='?' (DbType = Guid), @p38='?', @p39='?', @p40='?', @p41='?' (DbType = Guid), @p42='?' (DbType = Boolean), @p43='?' (DbType = Guid), @p44='?', @p45='?', @p46='?', @p47='?' (DbType = Guid), @p48='?' (DbType = Boolean), @p49='?' (DbType = Guid), @p50='?', @p51='?', @p52='?', @p53='?' (DbType = Int64), @p54='?' (DbType = Guid), @p55='?' (DbType = Int64), @p56='?' (DbType = Guid), @p57='?' (DbType = Boolean), @p58='?', @p59='?', @p60='?' (DbType = Guid), @p61='?', @p62='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO tt_invt_invitado (id_invitado, invt_v_apellido_materno, invt_v_apellido_paterno, id_estado_civil, invt_dt_fecha_nacimiento, id_genero, id_pais, invt_v_primer_nombre, invt_v_segundo_nombre)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+INSERT INTO tt_invtcor_invitado_correo (id_invitado_correo, invtcor_v_correo, invtcor_b_desea_notificacion, invtcor_b_es_prioridad, id_invitado, tcont_v_codigo)
+VALUES (@p9, @p10, @p11, @p12, @p13, @p14);
+INSERT INTO tt_invtdir_invitado_direccion (id_invitado_direccion, invtdir_v_coordenadas, invtdir_i_departamento, invtdir_v_direccion, id_distrito, invtdir_b_es_principal, id_invitado, invtdir_v_numero_lote, invtdir_i_piso, invtdir_b_prioridad, invtdir_v_referencia, tcont_v_codigo, tvurb_v_codigo)
+VALUES (@p15, @p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27);
+INSERT INTO tt_invtdoc_invitado_documento (id_invitado_documento, invtdoc_v_documento_identidad, invtdoc_b_es_prioridad, id_invitado, tdoc_v_codigo)
+VALUES (@p28, @p29, @p30, @p31, @p32);
+INSERT INTO tt_invtdtp_invitado_datos_principales (id_invitado_datos_principales, invtdtp_correo, invtdtp_direccion, invtdtp_documento_identidad, id_invitado, invtdtp_numero, invtdtp_referencia, tdoc_v_codigo)
+VALUES (@p33, @p34, @p35, @p36, @p37, @p38, @p39, @p40);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p41, @p42, @p43, @p44, @p45, @p46);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p47, @p48, @p49, @p50, @p51, @p52);
+INSERT INTO tt_etinvet_etiqueta_invitado (id_etiqueta, id_invitado)
+VALUES (@p53, @p54)
+RETURNING id_etiqueta_invitado;
+INSERT INTO tt_invtpref_invitado_preferencia (id_categoria_preferencia, id_invitado, invtpref_b_le_gusta, invtpref_v_valor)
+VALUES (@p55, @p56, @p57, @p58)
+RETURNING id_invitado_preferencia;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p59, @p60)
+RETURNING id_nota;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p61, @p62)
+RETURNING id_nota;
+2025-07-16 13:58:14 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 13:58:14 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 13:58:14 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 140.3928 ms
+2025-07-16 13:58:16 [ERR] /api/v1/customers  Failed executing DbCommand (3ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = Int64), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int64), @p6='?', @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?', @p11='?' (DbType = Boolean), @p12='?' (DbType = Boolean), @p13='?' (DbType = Guid), @p14='?', @p15='?' (DbType = Guid), @p16='?', @p17='?' (DbType = Int32), @p18='?', @p19='?' (DbType = Int64), @p20='?' (DbType = Boolean), @p21='?' (DbType = Guid), @p22='?', @p23='?' (DbType = Int32), @p24='?' (DbType = Boolean), @p25='?', @p26='?', @p27='?', @p28='?' (DbType = Guid), @p29='?', @p30='?' (DbType = Boolean), @p31='?' (DbType = Guid), @p32='?', @p33='?' (DbType = Guid), @p34='?', @p35='?', @p36='?', @p37='?' (DbType = Guid), @p38='?', @p39='?', @p40='?', @p41='?' (DbType = Guid), @p42='?' (DbType = Boolean), @p43='?' (DbType = Guid), @p44='?', @p45='?', @p46='?', @p47='?' (DbType = Guid), @p48='?' (DbType = Boolean), @p49='?' (DbType = Guid), @p50='?', @p51='?', @p52='?', @p53='?' (DbType = Int64), @p54='?' (DbType = Guid), @p55='?' (DbType = Int64), @p56='?' (DbType = Guid), @p57='?' (DbType = Boolean), @p58='?', @p59='?', @p60='?' (DbType = Guid), @p61='?', @p62='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO tt_invt_invitado (id_invitado, invt_v_apellido_materno, invt_v_apellido_paterno, id_estado_civil, invt_dt_fecha_nacimiento, id_genero, id_pais, invt_v_primer_nombre, invt_v_segundo_nombre)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+INSERT INTO tt_invtcor_invitado_correo (id_invitado_correo, invtcor_v_correo, invtcor_b_desea_notificacion, invtcor_b_es_prioridad, id_invitado, tcont_v_codigo)
+VALUES (@p9, @p10, @p11, @p12, @p13, @p14);
+INSERT INTO tt_invtdir_invitado_direccion (id_invitado_direccion, invtdir_v_coordenadas, invtdir_i_departamento, invtdir_v_direccion, id_distrito, invtdir_b_es_principal, id_invitado, invtdir_v_numero_lote, invtdir_i_piso, invtdir_b_prioridad, invtdir_v_referencia, tcont_v_codigo, tvurb_v_codigo)
+VALUES (@p15, @p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27);
+INSERT INTO tt_invtdoc_invitado_documento (id_invitado_documento, invtdoc_v_documento_identidad, invtdoc_b_es_prioridad, id_invitado, tdoc_v_codigo)
+VALUES (@p28, @p29, @p30, @p31, @p32);
+INSERT INTO tt_invtdtp_invitado_datos_principales (id_invitado_datos_principales, invtdtp_correo, invtdtp_direccion, invtdtp_documento_identidad, id_invitado, invtdtp_numero, invtdtp_referencia, tdoc_v_codigo)
+VALUES (@p33, @p34, @p35, @p36, @p37, @p38, @p39, @p40);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p41, @p42, @p43, @p44, @p45, @p46);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p47, @p48, @p49, @p50, @p51, @p52);
+INSERT INTO tt_etinvet_etiqueta_invitado (id_etiqueta, id_invitado)
+VALUES (@p53, @p54)
+RETURNING id_etiqueta_invitado;
+INSERT INTO tt_invtpref_invitado_preferencia (id_categoria_preferencia, id_invitado, invtpref_b_le_gusta, invtpref_v_valor)
+VALUES (@p55, @p56, @p57, @p58)
+RETURNING id_invitado_preferencia;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p59, @p60)
+RETURNING id_nota;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p61, @p62)
+RETURNING id_nota;
+2025-07-16 13:58:16 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 13:58:16 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 13:58:16 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 179.4123 ms
+2025-07-16 14:02:13 [INF]   Now listening on: https://localhost:7218
+2025-07-16 14:02:14 [INF]   Now listening on: http://localhost:5054
+2025-07-16 14:02:14 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 14:02:14 [INF]   Hosting environment: Development
+2025-07-16 14:02:14 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 14:02:37 [ERR] /api/v1/customers  Failed executing DbCommand (62ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = Int64), @p4='?' (DbType = DateTime), @p5='?' (DbType = Int64), @p6='?', @p7='?', @p8='?', @p9='?' (DbType = Guid), @p10='?', @p11='?' (DbType = Boolean), @p12='?' (DbType = Boolean), @p13='?' (DbType = Guid), @p14='?', @p15='?' (DbType = Guid), @p16='?', @p17='?' (DbType = Int32), @p18='?', @p19='?' (DbType = Int64), @p20='?' (DbType = Boolean), @p21='?' (DbType = Guid), @p22='?', @p23='?' (DbType = Int32), @p24='?' (DbType = Boolean), @p25='?', @p26='?', @p27='?', @p28='?' (DbType = Guid), @p29='?', @p30='?' (DbType = Boolean), @p31='?' (DbType = Guid), @p32='?', @p33='?' (DbType = Guid), @p34='?', @p35='?', @p36='?', @p37='?' (DbType = Guid), @p38='?', @p39='?', @p40='?', @p41='?' (DbType = Guid), @p42='?' (DbType = Boolean), @p43='?' (DbType = Guid), @p44='?', @p45='?', @p46='?', @p47='?' (DbType = Guid), @p48='?' (DbType = Boolean), @p49='?' (DbType = Guid), @p50='?', @p51='?', @p52='?', @p53='?' (DbType = Int64), @p54='?' (DbType = Guid), @p55='?' (DbType = Int64), @p56='?' (DbType = Guid), @p57='?' (DbType = Boolean), @p58='?', @p59='?', @p60='?' (DbType = Guid), @p61='?', @p62='?' (DbType = Guid)], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO tt_invt_invitado (id_invitado, invt_v_apellido_materno, invt_v_apellido_paterno, id_estado_civil, invt_dt_fecha_nacimiento, id_genero, id_pais, invt_v_primer_nombre, invt_v_segundo_nombre)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+INSERT INTO tt_invtcor_invitado_correo (id_invitado_correo, invtcor_v_correo, invtcor_b_desea_notificacion, invtcor_b_es_prioridad, id_invitado, tcont_v_codigo)
+VALUES (@p9, @p10, @p11, @p12, @p13, @p14);
+INSERT INTO tt_invtdir_invitado_direccion (id_invitado_direccion, invtdir_v_coordenadas, invtdir_i_departamento, invtdir_v_direccion, id_distrito, invtdir_b_es_principal, id_invitado, invtdir_v_numero_lote, invtdir_i_piso, invtdir_b_prioridad, invtdir_v_referencia, tcont_v_codigo, tvurb_v_codigo)
+VALUES (@p15, @p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27);
+INSERT INTO tt_invtdoc_invitado_documento (id_invitado_documento, invtdoc_v_documento_identidad, invtdoc_b_es_prioridad, id_invitado, tdoc_v_codigo)
+VALUES (@p28, @p29, @p30, @p31, @p32);
+INSERT INTO tt_invtdtp_invitado_datos_principales (id_invitado_datos_principales, invtdtp_correo, invtdtp_direccion, invtdtp_documento_identidad, id_invitado, invtdtp_numero, invtdtp_referencia, tdoc_v_codigo)
+VALUES (@p33, @p34, @p35, @p36, @p37, @p38, @p39, @p40);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p41, @p42, @p43, @p44, @p45, @p46);
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo)
+VALUES (@p47, @p48, @p49, @p50, @p51, @p52);
+INSERT INTO tt_etinvet_etiqueta_invitado (id_etiqueta, id_invitado)
+VALUES (@p53, @p54)
+RETURNING id_etiqueta_invitado;
+INSERT INTO tt_invtpref_invitado_preferencia (id_categoria_preferencia, id_invitado, invtpref_b_le_gusta, invtpref_v_valor)
+VALUES (@p55, @p56, @p57, @p58)
+RETURNING id_invitado_preferencia;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p59, @p60)
+RETURNING id_nota;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado)
+VALUES (@p61, @p62)
+RETURNING id_nota;
+2025-07-16 14:02:37 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 14:02:37 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23502
+    MessageText: null value in column "invt_v_usuario_creacion" of relation "tt_invt_invitado" violates not-null constraint
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_invt_invitado
+    ColumnName: invt_v_usuario_creacion
+    File: execMain.c
+    Line: 2006
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 14:02:37 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 1840.4302 ms
+2025-07-16 14:11:45 [INF]   Now listening on: https://localhost:7218
+2025-07-16 14:11:45 [INF]   Now listening on: http://localhost:5054
+2025-07-16 14:11:46 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 14:11:46 [INF]   Hosting environment: Development
+2025-07-16 14:11:46 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 14:12:10 [INF] /api/v1/customers  Invitado creado correctamente: "c21d3fd7-8209-4b48-bb02-6e96bdd9d3cf"
+2025-07-16 14:12:10 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 10959.2460 ms
+2025-07-16 14:56:30 [INF]   Now listening on: https://localhost:7218
+2025-07-16 14:56:31 [INF]   Now listening on: http://localhost:5054
+2025-07-16 14:56:31 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 14:56:31 [INF]   Hosting environment: Development
+2025-07-16 14:56:31 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 14:57:45 [ERR] /api/v1/customers  Rollback por excepción en CreateListCorreoCommand
+System.Exception: Cuando DeseaNotificacion es true, TipoNotificacion es obligatorio.
+   at Domain.Entities.Invitados.Correos.InvitadoCorreo..ctor(Guid invitadoId, String tipoContCodigo, String correo, Boolean deseaNot, Boolean esPrioridad, String tipoNotificacion) in C:\Users\jzavala\source\repos\app-template-net8\src\Domain\Entities\Invitados\Correos\InvitadoCorreo.cs:line 34
+   at Application.Invitados.Correos.Create.CreateListCorreoCommandHandler.<>c.<Handle>b__3_0(CreateCorreoCommand a) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\Correos\Create\CreateListCorreoCommandHandler.cs:line 21
+   at System.Linq.Enumerable.SelectListIterator`2.Fill(ReadOnlySpan`1 source, Span`1 destination, Func`2 func)
+   at System.Linq.Enumerable.SelectListIterator`2.ToList()
+   at Application.Invitados.Correos.Create.CreateListCorreoCommandHandler.Handle(CreateListCorreoCommand command, CancellationToken cancellationToken) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\Correos\Create\CreateListCorreoCommandHandler.cs:line 21
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 14:57:45 [ERR] /api/v1/customers  Error en orquestador: ["Error { Code = Transaction.Failure, Description = Cuando DeseaNotificacion es true, TipoNotificacion es obligatorio., Type = Failure, NumericType = 0, Metadata =  }"]
+2025-07-16 14:57:45 [WRN] /api/v1/customers  Rollback por errores en CreateInvitadoOrchestratorCommand: [{"Code":"Transaction.Failure","Description":"Cuando DeseaNotificacion es true, TipoNotificacion es obligatorio.","Type":"Failure","NumericType":0,"Metadata":null,"$type":"Error"}]
+2025-07-16 14:57:45 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 2153.3513 ms
+2025-07-16 14:58:31 [ERR] /api/v1/customers  Rollback por excepción en CreateListCorreoCommand
+System.Exception: Cuando DeseaNotificacion es true, TipoNotificacion es obligatorio.
+   at Domain.Entities.Invitados.Correos.InvitadoCorreo..ctor(Guid invitadoId, String tipoContCodigo, String correo, Boolean deseaNot, Boolean esPrioridad, String tipoNotificacion) in C:\Users\jzavala\source\repos\app-template-net8\src\Domain\Entities\Invitados\Correos\InvitadoCorreo.cs:line 34
+   at Application.Invitados.Correos.Create.CreateListCorreoCommandHandler.<>c.<Handle>b__3_0(CreateCorreoCommand a) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\Correos\Create\CreateListCorreoCommandHandler.cs:line 21
+   at System.Linq.Enumerable.SelectListIterator`2.Fill(ReadOnlySpan`1 source, Span`1 destination, Func`2 func)
+   at System.Linq.Enumerable.SelectListIterator`2.ToList()
+   at Application.Invitados.Correos.Create.CreateListCorreoCommandHandler.Handle(CreateListCorreoCommand command, CancellationToken cancellationToken) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\Correos\Create\CreateListCorreoCommandHandler.cs:line 21
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 14:58:31 [ERR] /api/v1/customers  Error en orquestador: ["Error { Code = Transaction.Failure, Description = Cuando DeseaNotificacion es true, TipoNotificacion es obligatorio., Type = Failure, NumericType = 0, Metadata =  }"]
+2025-07-16 14:58:31 [WRN] /api/v1/customers  Rollback por errores en CreateInvitadoOrchestratorCommand: [{"Code":"Transaction.Failure","Description":"Cuando DeseaNotificacion es true, TipoNotificacion es obligatorio.","Type":"Failure","NumericType":0,"Metadata":null,"$type":"Error"}]
+2025-07-16 14:58:31 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 3833.7700 ms
+2025-07-16 14:59:33 [INF]   Now listening on: https://localhost:7218
+2025-07-16 14:59:33 [INF]   Now listening on: http://localhost:5054
+2025-07-16 14:59:34 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 14:59:34 [INF]   Hosting environment: Development
+2025-07-16 14:59:34 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 15:00:00 [INF] /api/v1/customers  Invitado creado correctamente: "d1f341b6-908d-4f8d-a698-cf52cbd3e615"
+2025-07-16 15:00:00 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 8544.5457 ms
+2025-07-16 15:03:19 [INF]   Now listening on: https://localhost:7218
+2025-07-16 15:03:19 [INF]   Now listening on: http://localhost:5054
+2025-07-16 15:03:19 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 15:03:19 [INF]   Hosting environment: Development
+2025-07-16 15:03:19 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 15:03:39 [INF] /api/v1/customers  Invitado creado correctamente: "a7264964-f890-4bd2-aa4a-8fbde3a62a9f"
+2025-07-16 15:03:39 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 2255.8460 ms
+2025-07-16 15:05:37 [INF] /api/v1/customers  Invitado creado correctamente: "21443a1c-0246-49f2-bce4-0253118dbeec"
+2025-07-16 15:05:37 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 45085.6677 ms
+2025-07-16 15:06:21 [INF] /api/v1/customers  Invitado creado correctamente: "ecd89c14-4b33-47c7-9584-11e1be503421"
+2025-07-16 15:06:21 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 28732.8822 ms
+2025-07-16 15:33:58 [INF]   Now listening on: https://localhost:7218
+2025-07-16 15:33:58 [INF]   Now listening on: http://localhost:5054
+2025-07-16 15:33:58 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 15:33:58 [INF]   Hosting environment: Development
+2025-07-16 15:33:58 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 15:34:21 [ERR] /api/v1/customers  Failed executing DbCommand (90ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?' (DbType = DateTime), @p3='?' (DbType = DateTime), @p4='?', @p5='?', @p6='?' (DbType = Guid), @p7='?', @p8='?', @p9='?' (DbType = Int64), @p10='?' (DbType = DateTime), @p11='?' (DbType = Int64), @p12='?', @p13='?', @p14='?', @p15='?' (DbType = DateTime), @p16='?' (DbType = DateTime), @p17='?', @p18='?', @p19='?' (DbType = Guid), @p20='?', @p21='?' (DbType = Boolean), @p22='?' (DbType = Boolean), @p23='?' (DbType = Guid), @p24='?', @p25='?' (DbType = DateTime), @p26='?' (DbType = DateTime), @p27='?', @p28='?', @p29='?' (DbType = Guid), @p30='?', @p31='?' (DbType = Int32), @p32='?', @p33='?' (DbType = Int64), @p34='?' (DbType = Boolean), @p35='?' (DbType = Guid), @p36='?', @p37='?' (DbType = Int32), @p38='?' (DbType = Boolean), @p39='?', @p40='?', @p41='?', @p42='?' (DbType = DateTime), @p43='?' (DbType = DateTime), @p44='?', @p45='?', @p46='?' (DbType = Guid), @p47='?', @p48='?' (DbType = Boolean), @p49='?' (DbType = Guid), @p50='?', @p51='?' (DbType = DateTime), @p52='?' (DbType = DateTime), @p53='?', @p54='?', @p55='?' (DbType = Guid), @p56='?', @p57='?', @p58='?', @p59='?' (DbType = Guid), @p60='?', @p61='?', @p62='?', @p63='?' (DbType = DateTime), @p64='?' (DbType = DateTime), @p65='?', @p66='?', @p67='?' (DbType = Guid), @p68='?' (DbType = Boolean), @p69='?' (DbType = Guid), @p70='?', @p71='?', @p72='?', @p73='?' (DbType = DateTime), @p74='?' (DbType = DateTime), @p75='?', @p76='?', @p77='?' (DbType = Guid), @p78='?' (DbType = Boolean), @p79='?' (DbType = Guid), @p80='?', @p81='?', @p82='?', @p83='?' (DbType = DateTime), @p84='?' (DbType = DateTime), @p85='?', @p86='?', @p87='?' (DbType = Guid), @p88='?', @p89='?', @p90='?' (DbType = DateTime), @p91='?' (DbType = DateTime), @p92='?', @p93='?', @p94='?' (DbType = Int64), @p95='?' (DbType = Guid), @p96='?' (DbType = DateTime), @p97='?' (DbType = DateTime), @p98='?', @p99='?', @p100='?' (DbType = Int64), @p101='?' (DbType = Guid), @p102='?' (DbType = Boolean), @p103='?', @p104='?' (DbType = DateTime), @p105='?' (DbType = DateTime), @p106='?', @p107='?', @p108='?', @p109='?' (DbType = Guid), @p110='?' (DbType = DateTime), @p111='?' (DbType = DateTime), @p112='?', @p113='?', @p114='?', @p115='?' (DbType = Guid), @p116='?' (DbType = DateTime), @p117='?' (DbType = DateTime), @p118='?', @p119='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO tt_cnotif_correo_notificacion (id_invitado_correo, tnotif_v_codigo, cnotif_dt_fecha_creacion, cnotif_dt_fecha_modificacion, cnotif_v_usuario_creacion, cnotif_v_usuario_modificacion)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5)
+RETURNING id_correo_notificacion, cnotif_b_activo;
+INSERT INTO tt_invt_invitado (id_invitado, invt_v_apellido_materno, invt_v_apellido_paterno, id_estado_civil, invt_dt_fecha_nacimiento, id_genero, id_pais, invt_v_primer_nombre, invt_v_segundo_nombre, invt_dt_fecha_creacion, invt_dt_fecha_modificacion, invt_v_usuario_creacion, invt_v_usuario_modificacion)
+VALUES (@p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18)
+RETURNING invt_b_activo;
+INSERT INTO tt_invtcor_invitado_correo (id_invitado_correo, invtcor_v_correo, invtcor_b_desea_notificacion, invtcor_b_es_prioridad, id_invitado, tcont_v_codigo, invtcor_dt_fecha_creacion, invtcor_dt_fecha_modificacion, invtcor_v_usuario_creacion, invtcor_v_usuario_modificacion)
+VALUES (@p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27, @p28)
+RETURNING invtcor_b_activo;
+INSERT INTO tt_invtdir_invitado_direccion (id_invitado_direccion, invtdir_v_coordenadas, invtdir_i_departamento, invtdir_v_direccion, id_distrito, invtdir_b_es_principal, id_invitado, invtdir_v_numero_lote, invtdir_i_piso, invtdir_b_prioridad, invtdir_v_referencia, tcont_v_codigo, tvurb_v_codigo, invtdir_dt_fecha_creacion, invtdir_dt_fecha_modificacion, invtdir_v_usuario_creacion, invtdir_v_usuario_modificacion)
+VALUES (@p29, @p30, @p31, @p32, @p33, @p34, @p35, @p36, @p37, @p38, @p39, @p40, @p41, @p42, @p43, @p44, @p45)
+RETURNING invtdir_b_activo;
+INSERT INTO tt_invtdoc_invitado_documento (id_invitado_documento, invtdoc_v_documento_identidad, invtdoc_b_es_prioridad, id_invitado, tdoc_v_codigo, invtdoc_dt_fecha_creacion, invtdoc_dt_fecha_modificacion, invtdoc_v_usuario_creacion, invtdoc_v_usuario_modificacion)
+VALUES (@p46, @p47, @p48, @p49, @p50, @p51, @p52, @p53, @p54)
+RETURNING invtdoc_b_activo;
+INSERT INTO tt_invtdtp_invitado_datos_principales (id_invitado_datos_principales, invtdtp_correo, invtdtp_direccion, invtdtp_documento_identidad, id_invitado, invtdtp_numero, invtdtp_referencia, tdoc_v_codigo, invtdtp_dt_fecha_creacion, invtdtp_dt_fecha_modificacion, invtdtp_v_usuario_creacion, invtdtp_v_usuario_modificacion)
+VALUES (@p55, @p56, @p57, @p58, @p59, @p60, @p61, @p62, @p63, @p64, @p65, @p66)
+RETURNING invtdtp_b_activo;
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo, invttelf_dt_fecha_creacion, invttelf_dt_fecha_modificacion, invttelf_v_usuario_creacion, invttelf_v_usuario_modificacion)
+VALUES (@p67, @p68, @p69, @p70, @p71, @p72, @p73, @p74, @p75, @p76)
+RETURNING invttelf_b_activo;
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo, invttelf_dt_fecha_creacion, invttelf_dt_fecha_modificacion, invttelf_v_usuario_creacion, invttelf_v_usuario_modificacion)
+VALUES (@p77, @p78, @p79, @p80, @p81, @p82, @p83, @p84, @p85, @p86)
+RETURNING invttelf_b_activo;
+INSERT INTO tt_tnotif_telefono_notificacion (id_invitado_telefono, mnotif_v_codigo, tnotif_v_codigo, tnotif_dt_fecha_creacion, tnotif_dt_fecha_modificacion, tnotif_v_usuario_creacion, tnotif_v_usuario_modificacion)
+VALUES (@p87, @p88, @p89, @p90, @p91, @p92, @p93)
+RETURNING id_telefono_notificacion, tnotif_b_activo;
+INSERT INTO tt_etinvet_etiqueta_invitado (id_etiqueta, id_invitado, etinvet_dt_fecha_creacion, etinvet_dt_fecha_modificacion, etinvet_v_usuario_creacion, etinvet_v_usuario_modificacion)
+VALUES (@p94, @p95, @p96, @p97, @p98, @p99)
+RETURNING id_etiqueta_invitado, etinvet_b_activo;
+INSERT INTO tt_invtpref_invitado_preferencia (id_categoria_preferencia, id_invitado, invtpref_b_le_gusta, invtpref_v_valor, invtpref_dt_fecha_creacion, invtpref_dt_fecha_modificacion, invtpref_v_usuario_creacion, invtpref_v_usuario_modificacion)
+VALUES (@p100, @p101, @p102, @p103, @p104, @p105, @p106, @p107)
+RETURNING id_invitado_preferencia, invtpref_b_activo;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado, not_dt_fecha_creacion, not_dt_fecha_modificacion, not_v_usuario_creacion, not_v_usuario_modificacion)
+VALUES (@p108, @p109, @p110, @p111, @p112, @p113)
+RETURNING id_nota, not_b_activo;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado, not_dt_fecha_creacion, not_dt_fecha_modificacion, not_v_usuario_creacion, not_v_usuario_modificacion)
+VALUES (@p114, @p115, @p116, @p117, @p118, @p119)
+RETURNING id_nota, not_b_activo;
+2025-07-16 15:34:21 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "tt_cnotif_correo_notificacion_pkey"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "tt_cnotif_correo_notificacion_pkey"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_cnotif_correo_notificacion
+    ConstraintName: tt_cnotif_correo_notificacion_pkey
+    File: nbtinsert.c
+    Line: 666
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "tt_cnotif_correo_notificacion_pkey"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "tt_cnotif_correo_notificacion_pkey"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_cnotif_correo_notificacion
+    ConstraintName: tt_cnotif_correo_notificacion_pkey
+    File: nbtinsert.c
+    Line: 666
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 15:34:21 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23505: duplicate key value violates unique constraint "tt_cnotif_correo_notificacion_pkey"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23505
+    MessageText: duplicate key value violates unique constraint "tt_cnotif_correo_notificacion_pkey"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_cnotif_correo_notificacion
+    ConstraintName: tt_cnotif_correo_notificacion_pkey
+    File: nbtinsert.c
+    Line: 666
+    Routine: _bt_check_unique
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 15:34:21 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 2952.1788 ms
+2025-07-16 15:36:41 [ERR] /api/v1/customers  Failed executing DbCommand (9ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?' (DbType = DateTime), @p3='?' (DbType = DateTime), @p4='?', @p5='?', @p6='?' (DbType = Guid), @p7='?', @p8='?', @p9='?' (DbType = Int64), @p10='?' (DbType = DateTime), @p11='?' (DbType = Int64), @p12='?', @p13='?', @p14='?', @p15='?' (DbType = DateTime), @p16='?' (DbType = DateTime), @p17='?', @p18='?', @p19='?' (DbType = Guid), @p20='?', @p21='?' (DbType = Boolean), @p22='?' (DbType = Boolean), @p23='?' (DbType = Guid), @p24='?', @p25='?' (DbType = DateTime), @p26='?' (DbType = DateTime), @p27='?', @p28='?', @p29='?' (DbType = Guid), @p30='?', @p31='?' (DbType = Int32), @p32='?', @p33='?' (DbType = Int64), @p34='?' (DbType = Boolean), @p35='?' (DbType = Guid), @p36='?', @p37='?' (DbType = Int32), @p38='?' (DbType = Boolean), @p39='?', @p40='?', @p41='?', @p42='?' (DbType = DateTime), @p43='?' (DbType = DateTime), @p44='?', @p45='?', @p46='?' (DbType = Guid), @p47='?', @p48='?' (DbType = Boolean), @p49='?' (DbType = Guid), @p50='?', @p51='?' (DbType = DateTime), @p52='?' (DbType = DateTime), @p53='?', @p54='?', @p55='?' (DbType = Guid), @p56='?', @p57='?', @p58='?', @p59='?' (DbType = Guid), @p60='?', @p61='?', @p62='?', @p63='?' (DbType = DateTime), @p64='?' (DbType = DateTime), @p65='?', @p66='?', @p67='?' (DbType = Guid), @p68='?' (DbType = Boolean), @p69='?' (DbType = Guid), @p70='?', @p71='?', @p72='?', @p73='?' (DbType = DateTime), @p74='?' (DbType = DateTime), @p75='?', @p76='?', @p77='?' (DbType = Guid), @p78='?' (DbType = Boolean), @p79='?' (DbType = Guid), @p80='?', @p81='?', @p82='?', @p83='?' (DbType = DateTime), @p84='?' (DbType = DateTime), @p85='?', @p86='?', @p87='?' (DbType = Guid), @p88='?', @p89='?', @p90='?' (DbType = DateTime), @p91='?' (DbType = DateTime), @p92='?', @p93='?', @p94='?' (DbType = Int64), @p95='?' (DbType = Guid), @p96='?' (DbType = DateTime), @p97='?' (DbType = DateTime), @p98='?', @p99='?', @p100='?' (DbType = Int64), @p101='?' (DbType = Guid), @p102='?' (DbType = Boolean), @p103='?', @p104='?' (DbType = DateTime), @p105='?' (DbType = DateTime), @p106='?', @p107='?', @p108='?', @p109='?' (DbType = Guid), @p110='?' (DbType = DateTime), @p111='?' (DbType = DateTime), @p112='?', @p113='?', @p114='?', @p115='?' (DbType = Guid), @p116='?' (DbType = DateTime), @p117='?' (DbType = DateTime), @p118='?', @p119='?'], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO tt_cnotif_correo_notificacion (id_invitado_correo, tnotif_v_codigo, cnotif_dt_fecha_creacion, cnotif_dt_fecha_modificacion, cnotif_v_usuario_creacion, cnotif_v_usuario_modificacion)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5)
+RETURNING id_correo_notificacion, cnotif_b_activo;
+INSERT INTO tt_invt_invitado (id_invitado, invt_v_apellido_materno, invt_v_apellido_paterno, id_estado_civil, invt_dt_fecha_nacimiento, id_genero, id_pais, invt_v_primer_nombre, invt_v_segundo_nombre, invt_dt_fecha_creacion, invt_dt_fecha_modificacion, invt_v_usuario_creacion, invt_v_usuario_modificacion)
+VALUES (@p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18)
+RETURNING invt_b_activo;
+INSERT INTO tt_invtcor_invitado_correo (id_invitado_correo, invtcor_v_correo, invtcor_b_desea_notificacion, invtcor_b_es_prioridad, id_invitado, tcont_v_codigo, invtcor_dt_fecha_creacion, invtcor_dt_fecha_modificacion, invtcor_v_usuario_creacion, invtcor_v_usuario_modificacion)
+VALUES (@p19, @p20, @p21, @p22, @p23, @p24, @p25, @p26, @p27, @p28)
+RETURNING invtcor_b_activo;
+INSERT INTO tt_invtdir_invitado_direccion (id_invitado_direccion, invtdir_v_coordenadas, invtdir_i_departamento, invtdir_v_direccion, id_distrito, invtdir_b_es_principal, id_invitado, invtdir_v_numero_lote, invtdir_i_piso, invtdir_b_prioridad, invtdir_v_referencia, tcont_v_codigo, tvurb_v_codigo, invtdir_dt_fecha_creacion, invtdir_dt_fecha_modificacion, invtdir_v_usuario_creacion, invtdir_v_usuario_modificacion)
+VALUES (@p29, @p30, @p31, @p32, @p33, @p34, @p35, @p36, @p37, @p38, @p39, @p40, @p41, @p42, @p43, @p44, @p45)
+RETURNING invtdir_b_activo;
+INSERT INTO tt_invtdoc_invitado_documento (id_invitado_documento, invtdoc_v_documento_identidad, invtdoc_b_es_prioridad, id_invitado, tdoc_v_codigo, invtdoc_dt_fecha_creacion, invtdoc_dt_fecha_modificacion, invtdoc_v_usuario_creacion, invtdoc_v_usuario_modificacion)
+VALUES (@p46, @p47, @p48, @p49, @p50, @p51, @p52, @p53, @p54)
+RETURNING invtdoc_b_activo;
+INSERT INTO tt_invtdtp_invitado_datos_principales (id_invitado_datos_principales, invtdtp_correo, invtdtp_direccion, invtdtp_documento_identidad, id_invitado, invtdtp_numero, invtdtp_referencia, tdoc_v_codigo, invtdtp_dt_fecha_creacion, invtdtp_dt_fecha_modificacion, invtdtp_v_usuario_creacion, invtdtp_v_usuario_modificacion)
+VALUES (@p55, @p56, @p57, @p58, @p59, @p60, @p61, @p62, @p63, @p64, @p65, @p66)
+RETURNING invtdtp_b_activo;
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo, invttelf_dt_fecha_creacion, invttelf_dt_fecha_modificacion, invttelf_v_usuario_creacion, invttelf_v_usuario_modificacion)
+VALUES (@p67, @p68, @p69, @p70, @p71, @p72, @p73, @p74, @p75, @p76)
+RETURNING invttelf_b_activo;
+INSERT INTO tt_invttelf_invitado_telefono (id_invitado_telefono, invttelf_b_desea_notificacion, id_invitado, invttelf_v_numero, pa_v_prefijo, tcont_v_codigo, invttelf_dt_fecha_creacion, invttelf_dt_fecha_modificacion, invttelf_v_usuario_creacion, invttelf_v_usuario_modificacion)
+VALUES (@p77, @p78, @p79, @p80, @p81, @p82, @p83, @p84, @p85, @p86)
+RETURNING invttelf_b_activo;
+INSERT INTO tt_tnotif_telefono_notificacion (id_invitado_telefono, mnotif_v_codigo, tnotif_v_codigo, tnotif_dt_fecha_creacion, tnotif_dt_fecha_modificacion, tnotif_v_usuario_creacion, tnotif_v_usuario_modificacion)
+VALUES (@p87, @p88, @p89, @p90, @p91, @p92, @p93)
+RETURNING id_telefono_notificacion, tnotif_b_activo;
+INSERT INTO tt_etinvet_etiqueta_invitado (id_etiqueta, id_invitado, etinvet_dt_fecha_creacion, etinvet_dt_fecha_modificacion, etinvet_v_usuario_creacion, etinvet_v_usuario_modificacion)
+VALUES (@p94, @p95, @p96, @p97, @p98, @p99)
+RETURNING id_etiqueta_invitado, etinvet_b_activo;
+INSERT INTO tt_invtpref_invitado_preferencia (id_categoria_preferencia, id_invitado, invtpref_b_le_gusta, invtpref_v_valor, invtpref_dt_fecha_creacion, invtpref_dt_fecha_modificacion, invtpref_v_usuario_creacion, invtpref_v_usuario_modificacion)
+VALUES (@p100, @p101, @p102, @p103, @p104, @p105, @p106, @p107)
+RETURNING id_invitado_preferencia, invtpref_b_activo;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado, not_dt_fecha_creacion, not_dt_fecha_modificacion, not_v_usuario_creacion, not_v_usuario_modificacion)
+VALUES (@p108, @p109, @p110, @p111, @p112, @p113)
+RETURNING id_nota, not_b_activo;
+INSERT INTO tt_not_nota (not_v_comentario, id_invitado, not_dt_fecha_creacion, not_dt_fecha_modificacion, not_v_usuario_creacion, not_v_usuario_modificacion)
+VALUES (@p114, @p115, @p116, @p117, @p118, @p119)
+RETURNING id_nota, not_b_activo;
+2025-07-16 15:36:41 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_cnotif_correo_notificacion" violates foreign key constraint "fk_cnotif_invitado_correo"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_cnotif_correo_notificacion" violates foreign key constraint "fk_cnotif_invitado_correo"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_cnotif_correo_notificacion
+    ConstraintName: fk_cnotif_invitado_correo
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_cnotif_correo_notificacion" violates foreign key constraint "fk_cnotif_invitado_correo"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_cnotif_correo_notificacion" violates foreign key constraint "fk_cnotif_invitado_correo"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_cnotif_correo_notificacion
+    ConstraintName: fk_cnotif_invitado_correo
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 15:36:41 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_cnotif_correo_notificacion" violates foreign key constraint "fk_cnotif_invitado_correo"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_cnotif_correo_notificacion" violates foreign key constraint "fk_cnotif_invitado_correo"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_cnotif_correo_notificacion
+    ConstraintName: fk_cnotif_invitado_correo
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 15:36:41 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 214.2790 ms
+2025-07-16 15:45:01 [INF]   Now listening on: https://localhost:7218
+2025-07-16 15:45:01 [INF]   Now listening on: http://localhost:5054
+2025-07-16 15:45:01 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 15:45:01 [INF]   Hosting environment: Development
+2025-07-16 15:45:01 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 15:46:03 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 15:46:03 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 15:46:03 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 2596.7546 ms
+2025-07-16 16:12:30 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 16:12:30 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 16:12:30 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 151.2257 ms
+2025-07-16 16:12:54 [INF]   Now listening on: https://localhost:7218
+2025-07-16 16:12:54 [INF]   Now listening on: http://localhost:5054
+2025-07-16 16:12:54 [INF]   Application started. Press Ctrl+C to shut down.
+2025-07-16 16:12:55 [INF]   Hosting environment: Development
+2025-07-16 16:12:55 [INF]   Content root path: C:\Users\jzavala\source\repos\app-template-net8\src\API
+2025-07-16 16:13:22 [ERR] /api/v1/customers  An exception occurred in the database while saving changes for context type 'Infrastructure.Persistence.ApplicationDbContextPostgreSql'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2025-07-16 16:13:22 [ERR] /api/v1/customers  Rollback por excepción en CreateInvitadoOrchestratorCommand
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ERROR
+    SqlState: 23503
+    MessageText: insert or update on table "tt_etinvet_etiqueta_invitado" violates foreign key constraint "fk_etinvet_etiqueta"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: tt_etinvet_etiqueta_invitado
+    ConstraintName: fk_etinvet_etiqueta
+    File: ri_triggers.c
+    Line: 2608
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Update.Internal.NpgsqlModificationCommandBatch.Consume(RelationalDataReader reader, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalDatabase.SaveChangesAsync(IList`1 entries, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Application.Invitados.InvitadoOrchestrator.Create.CreateInvitadoOrchestratorCommandHandler.Handle(CreateInvitadoOrchestratorCommand command, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Invitados\InvitadoOrchestrator\Create\CreateInvitadoOrchestratorCommandHandler.cs:line 53
+   at Application.Common.Behaviors.TransactionBehavior`2.Handle(TRequest request, RequestHandlerDelegate`1 next, CancellationToken ct) in C:\Users\jzavala\source\repos\app-template-net8\src\Application\Common\Behaviors\TransactionBehavior.cs:line 34
+2025-07-16 16:13:22 [ERR] /api/v1/customers  HTTP POST /api/v1/customers responded 500 in 2510.6343 ms
+2025-07-16 16:16:35 [INF] /api/v1/customers  Invitado creado correctamente: "9c2c0fd7-fd4c-4c8b-876a-dd32d73af682"
+2025-07-16 16:16:35 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 118.8988 ms
+2025-07-16 16:17:19 [INF] /api/v1/customers  Invitado creado correctamente: "f9bd9d50-8261-4099-8c9f-aeacfd963d04"
+2025-07-16 16:17:19 [INF] /api/v1/customers  HTTP POST /api/v1/customers responded 201 in 118.2115 ms
