@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObtenerInvitados", "ObtenerInvitados\ObtenerInvitados.csproj", "{EA7B1328-B432-BDF9-785D-9F45D3BC091E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistroCalimaco", "RegistroCalimaco\RegistroCalimaco.csproj", "{D2433A35-730C-1B2A-B3E2-3D75B570965E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -70,6 +72,10 @@ Global
 		{EA7B1328-B432-BDF9-785D-9F45D3BC091E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA7B1328-B432-BDF9-785D-9F45D3BC091E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA7B1328-B432-BDF9-785D-9F45D3BC091E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2433A35-730C-1B2A-B3E2-3D75B570965E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2433A35-730C-1B2A-B3E2-3D75B570965E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2433A35-730C-1B2A-B3E2-3D75B570965E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2433A35-730C-1B2A-B3E2-3D75B570965E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -85,6 +91,7 @@ Global
 		{F98E1A96-17B0-CD32-99EF-0D7FC83BC112} = {E09F1730-CDA3-447A-BEB8-5A75030E3A59}
 		{B2EA1E5B-293C-4222-AD06-0AB5B0656A8F} = {283EC844-A00B-416F-BA8F-FB374A6AD1D4}
 		{EA7B1328-B432-BDF9-785D-9F45D3BC091E} = {E09F1730-CDA3-447A-BEB8-5A75030E3A59}
+		{D2433A35-730C-1B2A-B3E2-3D75B570965E} = {E09F1730-CDA3-447A-BEB8-5A75030E3A59}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {29C47498-CB34-4D06-B5E5-2598BD2039DF}
